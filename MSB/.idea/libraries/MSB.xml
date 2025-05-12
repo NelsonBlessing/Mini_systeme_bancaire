@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MSB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MSB.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
